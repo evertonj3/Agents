@@ -1,0 +1,15 @@
+# FastAPI Web Interface Requirements
+fastapi
+uvicorn
+python-multipart
+jinja2
+
+# Original project requirements
+requests
+httpx
+openai
+beautifulsoup4
+python-dotenv
+urllib3
+lxml
+langgraph
